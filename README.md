@@ -4,13 +4,13 @@ A little bit about me first. I am a graduate student with a passion for Deep Lea
 
 ![nexh98](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nexh98)
 
-### Publications 📖
+## Publications 📖
 - [Forward Diffusion Guided Reconstruction as a Multi-Modal Multi-Task Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10222929/) (ICIP 2023)
 - [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/pdf/2302.11970.pdf) (ICIP 2023)
 - [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/pdf/2309.08146.pdf) (Under Review at ICASSP 2024)
 - [Detecting anomalies from liquid transfer videos in automated laboratory setting](https://www.frontiersin.org/articles/10.3389/fmolb.2023.1147514/full) (Frontiers in Molecular Biosciences)
 
-### Competitions 🏆
+## Competitions 🏆
 - Received the [Kaggle Community Competition Creator Prize](https://www.kaggle.com/discussions/general/343079) (This was a very different experience due to winning as a competition organizer instead of a participant 🧐) 
 - Ranked 1st on [LB](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/) in [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) at ICIP 2022
 - Ranked 1st in [IEEE Signal Processing Cup 2022: Synthetic Speech Attribution](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022) at ICASSP 2022
@@ -31,10 +31,11 @@ A little bit about me first. I am a graduate student with a passion for Deep Lea
 - 
 -->
 
-### Kaggle Insights
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nexh98/competition/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nexh98/discussion/light)
-
+## Kaggle Insights
+<div align="center"> 
+  <img src=https://road-to-kaggle-grandmaster.vercel.app/api/badges/nexh98/competition/light/>
+  <img src=https://road-to-kaggle-grandmaster.vercel.app/api/badges/nexh98/discussion/light/>
+</div>
 <!--
 **Najib-Haq/Najib-Haq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
