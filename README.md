@@ -5,7 +5,7 @@ A little bit about me first. I am a graduate student with a passion for Deep Lea
 ![nexh98](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nexh98)
 
 ## Publications 📖
-- [Leveraging Generative Language Models for Weakly Supervised SentenceComponent Analysis in Video-Language Joint Learning](https://arxiv.org/pdf/2312.06699.pdf) (Under Review at CVPR 2024)
+- [Leveraging Generative Language Models for Weakly Supervised SentenceComponent Analysis in Video-Language Joint Learning](https://arxiv.org/pdf/2312.06699.pdf) (Accepted at CVPRW 2024)
 - [Forward Diffusion Guided Reconstruction as a Multi-Modal Multi-Task Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10222929/) (ICIP 2023)
 - [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/pdf/2302.11970.pdf) (ICIP 2023)
 - [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/pdf/2309.08146.pdf) (Under Review at ICASSP 2024)
