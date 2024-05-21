@@ -8,8 +8,8 @@ A little bit about me first. I am a graduate student with a passion for Deep Lea
 - [Leveraging Generative Language Models for Weakly Supervised SentenceComponent Analysis in Video-Language Joint Learning](https://arxiv.org/pdf/2312.06699.pdf) (Accepted at CVPRW 2024)
 - [Forward Diffusion Guided Reconstruction as a Multi-Modal Multi-Task Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10222929/) (ICIP 2023)
 - [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/pdf/2302.11970.pdf) (ICIP 2023)
-- [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/pdf/2309.08146.pdf) (Under Review at ICASSP 2024)
 - [Detecting anomalies from liquid transfer videos in automated laboratory setting](https://www.frontiersin.org/articles/10.3389/fmolb.2023.1147514/full) (Frontiers in Molecular Biosciences)
+- [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/pdf/2309.08146.pdf) 
 
 ## Competitions 🏆
 - Received the [Kaggle Community Competition Creator Prize](https://www.kaggle.com/discussions/general/343079) (This was a very different experience due to winning as a competition organizer instead of a participant 🧐) 
